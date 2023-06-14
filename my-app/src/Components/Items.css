@@ -1,0 +1,23 @@
+.clothes-image-container {
+    border: 1px solid;
+}
+
+.my-3 .card .card-img-top {
+    height: "10%";
+}
+
+.my-3 .card-group {
+    text-decoration: none;
+}
+
+.col-md-3 .my-3 .card-group:hover {
+    transform: scale(1.02741);
+}
+
+#link {
+    text-decoration: none;
+}
+
+.card-title {
+    color: rgba(0, 0, 0, 0.805);
+}

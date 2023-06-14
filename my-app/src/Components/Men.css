@@ -1,0 +1,28 @@
+.filters-with-clothes-container {
+    display: flex;
+}
+
+.filters-container {
+    display: inline-block;
+    height: 100%;
+    width: 305px;
+    border: 1px solid;
+    height: 10%; 
+    padding-left: 30px;
+    margin-left: -1rem;
+}
+
+.garments-collection-container {
+    margin-bottom: 20px;
+}
+
+#product-price {
+    color: brown;
+}
+
+@media only screen and (max-width: 477px) and (min-width: 323px) 
+{
+    .filters-container {
+        width: 175px;
+    }
+}
